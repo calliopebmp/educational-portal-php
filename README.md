@@ -8,6 +8,18 @@ The system was developed as part of a university project and demonstrates key co
 
 ---
 
+## 🌐 Demo
+You can try the live version of this project here:  
+👉 [Live Demo](http://mpampala.webpages.auth.gr/bampala/)
+
+---
+
+### Demo Login
+Use these test accounts to log in:
+
+- **Tutor account** → `tutor / q1f4$kJ1`  
+- **Student account** → `student@csd.auth.test.gr / abcd`
+
 ## Features
 
 ### Authentication
